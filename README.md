@@ -7,9 +7,9 @@
 
 - Todos os meus projetos estão disponíveis em [https://github.com/RickSaint](https://github.com/RickSaint)
 
-- 💬 pode me peeguntar sobre **Front end (html, CSS, JS, PHP, C#)**
+- 💬 pode me perguntar sobre **Frontend (html, CSS, JS) e Back-end(PHP, C#)**
 
-- 📫 Voce pode me contatar pelo email **r.bomfim007@gmail.com**
+- 📫 Voce pode me contatar pelo email **r.bomfim007@gmail.com** e pelo whatsapp: **(71) 98277-2633**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
