@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, Eu me chamo Richard Bomfim</h1>
 <h3 align="center">Sou desenvolvedor front-end</h3>
 
+- 🌱 **Eu estou atualmente buscando novas oportunidades**
+
 - 🌱 Eu estou atualmente aprendendo **React e laravel**
 
 - Todos os meus projetos estão disponíveis em [https://github.com/RickSaint](https://github.com/RickSaint)
