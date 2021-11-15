@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu me chamo Richard Bomfim</h1>
-<h3 align="center">Sou desenvolvedor front-end</h3>
+<h3 align="center">Sou desenvolvedor front-end e back-end</h3>
 
 - 🌱 **Eu estou atualmente buscando novas oportunidades**
 
@@ -7,7 +7,7 @@
 
 - Todos os meus projetos estão disponíveis em [https://github.com/RickSaint](https://github.com/RickSaint)
 
-- 💬 pode me peeguntar sobre **Front end (html, CSS, JS)**
+- 💬 pode me peeguntar sobre **Front end (html, CSS, JS, PHP, C#)**
 
 - 📫 Voce pode me contatar pelo email **r.bomfim007@gmail.com**
 
